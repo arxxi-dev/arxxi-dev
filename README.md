@@ -1,4 +1,5 @@
-### Hi 👋 there !
+[banner](https://github.com/user-attachments/assets/b080fe83-951e-4fde-9b6b-3cdbcc7b3c4c)
+### Hi! 👋 there !
 I'm a **Full Stack Engineer with 5+ years of experience** designing and building production-grade applications used by real businesses and users.
 
 I partner with startups, companies, and founders to architect and deliver **scalable applications, SaaS platforms, and high-impact digital products** — from idea to deployment.
