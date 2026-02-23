@@ -1,3 +1,4 @@
+![Banner](./banner.svg)
 ### Hi! 👋 there !
 I'm a **Full Stack Engineer with 5+ years of experience** designing and building production-grade applications used by real businesses and users.
 
