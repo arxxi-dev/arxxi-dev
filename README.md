@@ -1,4 +1,4 @@
-[banner](https://github.com/user-attachments/assets/b080fe83-951e-4fde-9b6b-3cdbcc7b3c4c)
+[bannerGIF](https://github.com/user-attachments/assets/b080fe83-951e-4fde-9b6b-3cdbcc7b3c4c)
 ### Hi! 👋 there !
 I'm a **Full Stack Engineer with 5+ years of experience** designing and building production-grade applications used by real businesses and users.
 
